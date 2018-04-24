@@ -1,0 +1,28 @@
+# symlink from ~/.config/matplotlib/stylelib
+# or <matplotlib.get_configdir()>/stylelib if not the same
+
+# figure.dpi: 120
+# savefig.dpi: 120
+figure.facecolor: ffffff
+savefig.bbox: tight
+lines.linewidth: 2
+font.family: serif
+font.size: 20.0
+legend.frameon: False
+legend.fontsize: 16
+xtick.top: True
+xtick.direction: in
+xtick.major.size: 8
+xtick.minor.size: 4
+xtick.major.width: 0.75
+xtick.minor.width: 0.75
+xtick.labelsize: 16.0
+ytick.right : True
+ytick.direction: in
+ytick.major.size: 8
+ytick.minor.size: 4
+ytick.major.width: 0.75
+ytick.minor.width: 0.75
+ytick.labelsize: 16.0
+mathtext.fontset: cm
+mathtext.rm : serif
